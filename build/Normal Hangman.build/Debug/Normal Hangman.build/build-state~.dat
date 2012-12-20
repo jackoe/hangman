@@ -1,0 +1,59 @@
+TNormal Hangman
+v7
+r0
+t315055738.213924
+cCheck dependencies
+cCompileC "build/Normal Hangman.build/Debug/Normal Hangman.build/Objects-normal/x86_64/main.o" "/Users/jackwines/Desktop/Normal Hangman/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd "/Users/jackwines/Desktop/Normal Hangman/build/Debug/Normal Hangman" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004BF4701900000000000000EE
+t1274310681
+s238
+
+N/Users/jackwines/Desktop/Normal Hangman/build/Debug/Normal Hangman
+t1293362938
+s58808
+
+N/Users/jackwines/Desktop/Normal Hangman/build/Normal Hangman.build/Debug/Normal Hangman.build/Objects-normal/x86_64/Normal Hangman.LinkFileList
+c000000004D1726FA000000000000007B
+t1293362938
+s123
+
+N/Users/jackwines/Desktop/Normal Hangman/build/Normal Hangman.build/Debug/Normal Hangman.build/Objects-normal/x86_64/main.o
+t1293362938
+s204496
+
+N/Users/jackwines/Desktop/Normal Hangman/main.cpp
+c000000004D1726F90000000000000CF3
+t1293362937
+s3315
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies315055738#315055738#0(0"0(0#1#0"8613637312#0"0#
+
+CCompileC "build/Normal Hangman.build/Debug/Normal Hangman.build/Objects-normal/x86_64/main.o" "/Users/jackwines/Desktop/Normal Hangman/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s315055738.136453
+e315055738.188155
+r1
+xCompileC
+xbuild/Normal Hangman.build/Debug/Normal Hangman.build/Objects-normal/x86_64/main.o
+x/Users/jackwines/Desktop/Normal Hangman/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/jackwines/Desktop/Normal Hangman/main.cpp315055738#315055738#0(186"/Users/jackwines/Desktop/Normal Hangman/main.cpp: In function 'int main(int, char* const*)':/Users/jackwines/Desktop/Normal Hangman/main.cpp:150: warning: unused variable 'gameOutcome'1(22@29"Unused variable 'gameOutcome'315055738#93#93#0(6@48"/Users/jackwines/Desktop/Normal Hangman/main.cpp315055737#150#0#150#0#19"unused variable '*'0(0#0#48"/Users/jackwines/Desktop/Normal Hangman/main.cpp8614749024#1450"    cd "/Users/jackwines/Desktop/Normal Hangman"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/jackwines/Desktop/Normal Hangman/build/Normal Hangman.build/Debug/Normal Hangman.build/Normal Hangman-generated-files.hmap" "-I/Users/jackwines/Desktop/Normal Hangman/build/Normal Hangman.build/Debug/Normal Hangman.build/Normal Hangman-own-target-headers.hmap" "-I/Users/jackwines/Desktop/Normal Hangman/build/Normal Hangman.build/Debug/Normal Hangman.build/Normal Hangman-all-target-headers.hmap" -iquote "/Users/jackwines/Desktop/Normal Hangman/build/Normal Hangman.build/Debug/Normal Hangman.build/Normal Hangman-project-headers.hmap" "-F/Users/jackwines/Desktop/Normal Hangman/build/Debug" "-I/Users/jackwines/Desktop/Normal Hangman/build/Debug/include" "-I/Users/jackwines/Desktop/Normal Hangman/build/Normal Hangman.build/Debug/Normal Hangman.build/DerivedSources/x86_64" "-I/Users/jackwines/Desktop/Normal Hangman/build/Normal Hangman.build/Debug/Normal Hangman.build/DerivedSources" -c "/Users/jackwines/Desktop/Normal Hangman/main.cpp" -o "/Users/jackwines/Desktop/Normal Hangman/build/Normal Hangman.build/Debug/Normal Hangman.build/Objects-normal/x86_64/main.o"0#
+
+CLd "/Users/jackwines/Desktop/Normal Hangman/build/Debug/Normal Hangman" normal x86_64
+s315055738.188263
+e315055738.213866
+r1
+xLd
+x/Users/jackwines/Desktop/Normal Hangman/build/Debug/Normal Hangman
+xnormal
+xx86_64
+lSLF07#2@71"Link /Users/jackwines/Desktop/Normal Hangman/build/Debug/Normal Hangman315055738#315055738#0(0"0(0#0#0"8613993184#541"    cd "/Users/jackwines/Desktop/Normal Hangman"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/jackwines/Desktop/Normal Hangman/build/Debug" "-F/Users/jackwines/Desktop/Normal Hangman/build/Debug" -filelist "/Users/jackwines/Desktop/Normal Hangman/build/Normal Hangman.build/Debug/Normal Hangman.build/Objects-normal/x86_64/Normal Hangman.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/jackwines/Desktop/Normal Hangman/build/Debug/Normal Hangman"0#
+
